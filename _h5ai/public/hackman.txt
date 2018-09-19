@@ -1,0 +1,10 @@
+Hacking
+
+pstree
+cmatrix
+hollywood -q -s 4
+shryt
+ranger
+htop
+shrcrypt
+bmon -5/10

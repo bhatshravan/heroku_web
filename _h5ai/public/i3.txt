@@ -1,0 +1,20 @@
+Mod+shift+E -> Exit
+M+Shift+ no. -> Move window to workspace
+M+1,2,3,4 -> Move to workspace
+M+D -> Launch Dbox
+M+shift+Q -> Quit application
+Mod+shift+x -> i3lock
+Mod+shift+r -> Reload i3
+
+feh
+xbacklight
+arandr
+xprop
+
+assign [class="Rhytmbox] $ws10
+fontawesome
+unzip
+lxappearance
+tty-clock
+
+xrdb -merge ~/.Xresources

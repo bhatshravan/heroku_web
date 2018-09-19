@@ -1,0 +1,165 @@
+							---- COMMANDS 1 -----
+yaourt
+history -c   -->Clear history
+sudo shutdown 0
+
+gpg --recv-keys 1A09227B1F435A33
+
+journalctl -p 3 -xb
+
+ncmpcpp
+lolcat
+fortune
+cowsay
+ponysay
+bash-pipes / pipes
+cava
+gotop
+vis
+
+pacman -S <package-name>
+or
+yaourt -sS <package> for list of options
+
+uname -r
+systemctl list-units
+systemctl start mariadb.service
+musql -u root -p
+sudo poweroff
+pstree
+ps axjf
+serve
+history -cw
+~/Program/bash/nnms.sh
+pacman -Syyu
+ip addr
+ifconfig
+
+nmcli dev wifi   -> For searching wifi
+nmcli device wifi connect AP Password
+
+
+mv-For moving files
+cp-For copying files
+df-Show disk usage
+
+
+							----- PROGRAMS -----
+terminator
+ranger
+nms
+htop
+vftpd
+cmatrix
+pansay
+neofetch
+plank
+create-ap
+franz
+http-server [path] [options]
+php-fcm
+nginx
+ganache-cli
+http_server
+ranger
+cmatrix
+create_ap
+terminator
+yarn
+
+Sigkill -> Kills task
+Sigterm -> Peaceful termination
+
+
+							------ UNINSTALLED -----
+Peek- Short animated gif recorder
+Hexchat
+
+							------ MY ALIASES -----
+shrcrypt
+shrsubs
+shrhotspot
+shrhelp
+hollywood
+mpsyt
+
+
+							------ MPS -----
+/search item
+add N         			#Add item to playlist
+* or all 			#Play all
+pl yutube-link 			#play youtube playslist
+//playlist-search
+
+1-   				#Play all from 1st song
+set show_video true
+
+
+
+							------ SHORTCUTS ------
+Alt+Fn+F2 for application search
+
+Ctrl-Alt-Delete --> Force reboot
+Ctrl-alt-F --> Open file manager
+Ctrl-Alt-T --> Open terminalm-e
+Ctrl-Alt-Delete --> Force reboot
+Ctrl-alt-F --> Open file manager
+Ctrl-Alt-T --> Open terminal
+Ctrl+Alt+[Left/Right-Arrow]  for Switching Workspaces
+Ctrl+Alt+Fn+ F1,F2.. --> Switch Virtual console
+Ctrl+Alt+x -> Kill application
+
+Ctrl-D -> EOF
+Ctrl-C -> Kills task
+Ctrl-Z -> Pauses task
+Ctrl-L -> Clear Screen
+Ctrl-Y -> Paste
+Ctrl-S -> Search
+
+Shift+Alt+PageUp -> Raise window
+Ctrl+Alt+5 -> Move window to workspace 5
+Ctrl+ F1,F2,F3 -> Workspace 1,2,3...
+Alt+Insert -> Insert workspace
+Alt+Delete -> Delete workspace
+Alt+F7 -> Move window
+Alt+F8 -> Resize window
+Alt+F9 -> Minimize
+
+					IN FIREFOX--->
+
+Ctrl-K -->  Firefox Adress bar switch
+Alt + > or Alt + < -> Switch back or forward in history
+
+							----- COMMANDS -----
+
+sudo create_ap -m nat wlp2s0 enp1s0 CodeBreaker shravan123
+
+							---- FOLDERS ----
+
+/user/share/nginx/html
+/usr/share/backgrounds
+/opt/lampp
+/usr/share/applications for whisker menu.... ending is .desktop
+
+
+							-------------------
+To create new shortcuts go to menu and search window manager
+
+select the Keyboard tab, and you can be creating or modifying the desired shortcuts
+
+
+							-------------------
+Add alias
+
+vim ~/.bashrc
+Add alias
+alias aliasname='commands'
+
+
+
+
+
+---------------------
+Editing manjaro shortcuts at -   ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+Manjaro default applications -   /usr/share/applications/mimeinfo.cache
+xdg-mime default Thunar-folder-handler.desktop inode/directory
