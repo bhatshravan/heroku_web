@@ -1,0 +1,16 @@
+{
+    "name": "bs/heroku",
+    "description": "My file sharing server hosted for heroku",
+    "type": "project",
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "^144.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shravan",
+            "email": "shrvnbhat0@gmail.com"
+        }
+    ],
+    "require": {}
+}
