@@ -1,5 +1,0 @@
-/home/shravan/Software/Apache-tomcat/bin/startup.sh -- For starting up
-
-/home/shravan/Software/Apache-tomcat/bin/shutdown.sh --For shutting down
-
-/home/shravan/Software/Apache-tomcat/webapps/ROOT -- host files are here
